@@ -1,0 +1,2 @@
+# Equity-Portfolio-analysis
+This repository is a coded version of Equity Portfolio analysis by Zerodha Varsity. The user can make his or her own stock portfolio by specifying the stock ticker name and its weight in percentage. The program will create a portfolio and find its variance(measure of risk). Additionally, it will parse the historical data over last 2 years and find the performance(returns) of your portfolio.  
