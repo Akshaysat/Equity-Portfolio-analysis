@@ -7,4 +7,4 @@ For the theory part of the analysis, you can refer <a href="https://zerodha.com/
 
 Example:
 
-Expected_portfolio_return, Annual_portfolio_stdev, NAV_live = stock_portfolio(portfolio,start_date,end_date)
+[Expected_portfolio_return, Annual_portfolio_stdev, NAV_live] = stock_portfolio(portfolio,start_date,end_date)
